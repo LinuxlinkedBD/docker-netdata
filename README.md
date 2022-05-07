@@ -12,3 +12,4 @@ cd docker-netdata/
 ```
 docker-compose up -d
 ```
+## Browse to http://server_ip:19999/
